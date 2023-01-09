@@ -1,4 +1,4 @@
-body {
+body {}
 nav{
   list-style-type: none;
 background-color: salmon;
@@ -31,4 +31,4 @@ h2 {font-family: 'Roboto Flex', sans-serif}
 img { width: 300px 
 border: solid black 3px;
 }
-}
+
